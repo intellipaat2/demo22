@@ -1,0 +1,7 @@
+some code
+some changes
+<<<<<<< HEAD
+change1
+=======
+change2
+>>>>>>> public2
